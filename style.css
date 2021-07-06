@@ -28,7 +28,7 @@ body{
     .hero_color{
         color: orange;
     }
-    .top_banner{
+    .top_section{
         display: flex;
         padding: 4%;
     }
